@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Site Ana Martins`,
+    title: `Ana Martins`,
     position: `Fotografa e jornalista`,   
-    description: `Esse site é sobre os trabalhos de Ana Martins`,
+    description: `Blog de Ana Martins`,
     author: `@ingridvaz`,
   },
   plugins: [
