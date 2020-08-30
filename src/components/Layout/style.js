@@ -8,5 +8,6 @@ export const LayoutMain = styled.main`
   min-height: 100vh;
   padding: 0 2rem  0 13rem;
   width: 100%;
+  
 `
 
